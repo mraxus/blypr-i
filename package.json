@@ -1,6 +1,6 @@
 {
   "name": "blypr-i",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Marcus Bergman <mraxus@gmail.com>",
   "description": "module for logging to blypr",
   "main": "blypr-i.js",
