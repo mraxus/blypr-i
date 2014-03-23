@@ -14,7 +14,7 @@
     "tape": "~2.11.0"
   },
   "repository": {
-    "url": "git://github.com/mraxus/blypr-i"
+    "url": "git://github.com/mraxus/blypr-i.git"
   },
   "licence": "MIT",
   "keywords": []
